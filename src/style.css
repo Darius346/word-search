@@ -1,0 +1,28 @@
+body {
+ background-image: url("https://d.facdn.net/art/tpirman1982/1520656254/1520656254.tpirman1982_doodlebob02.gif");
+ background-color: #cccccc;
+  background-size: 1300px 768px;
+}
+
+h1
+{
+  padding-right: 150;
+}
+
+.boxed {
+  display: inline-block;
+  width: 9%;
+  border: 5px solid black;
+  padding: 10px;
+}
+
+button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
